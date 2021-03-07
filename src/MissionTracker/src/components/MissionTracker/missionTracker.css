@@ -50,7 +50,7 @@
     border-left: 3rem solid transparent;
     max-width: 100rem;
     overflow: auto;
-    padding: 0.5rem;
+    padding: 0 1rem;
 }
 
 .mission-tracker-items {
@@ -76,7 +76,7 @@
     max-width: var(--circle-size);
     text-align: center;
     max-height: 5rem;
-    min-width: 6rem;
+    min-width: 6.5rem;
     overflow: hidden;
     text-overflow: ellipsis;
     position: absolute;

@@ -10,12 +10,12 @@ export default class MissionTracker extends Component {
         this.state = {
             todos: [
                 {
-                    name: 'Clear for takeoff',
+                    name: 'Cleared for takeoff',
                     id: 1,
                     isChecked: false
                 }, 
                 {
-                    name: 'After takeoff', 
+                    name: 'After take off', 
                     id: 2,
                     isChecked: true
                 },
